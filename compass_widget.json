@@ -1,7 +1,7 @@
 {
     "id": "com.sap.custom.compass_widget",
     "version": "1.0.0",
-    "name": "Compass_widget",
+    "name": "Map_widget",
     "description": "Compass_Widget_Test",
     "newInstancePrefix": "Compass_widget",
     "icon": "",
